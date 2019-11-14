@@ -20,7 +20,7 @@ This project implements a composite pattern to provide a container of commands a
 ## Planned Functionality
 1. Bash commands (e.g. mkdir, echo, ls, exit, etc.)
 2. Connector functionality executed via a logical tree structure
-3. Connector functionality includes: ```And: &&,  Or: ||```
+3. Connector functionality includes: ```And: &&,  Or: ||, Next: ;, Comment: #```
 4. Utilizing the logical tree structure, execute return values recursively traverse back up the tree
 
 ## Known Bugs
