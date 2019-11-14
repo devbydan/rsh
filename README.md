@@ -15,7 +15,7 @@ This project entails the creation of a basic, remote command shell that incorpor
 ## Project Structure
 This project implements a composite pattern to provide a container of commands as well as a nested tree structure that is required to execute the logical implementation of connectors. Strategically opted to utilize header files to prevent directory pollution. With this being said, having all code provided in each respective header file allows for readability and concise code implementation.
 
-![UML](../images/rsh_uml_diagram.png)
+![UML](images/rsh_uml_diagram.png)
 
 ## Planned Functionality
 1. Bash commands (e.g. mkdir, echo, ls, exit, etc.)
